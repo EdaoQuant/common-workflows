@@ -12,3 +12,4 @@ jobs:
     - uses: srvaroa/labeler@master
       env:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        config_path: "EdaoQuant/common-workflows/.github/issue-labeler.yml"

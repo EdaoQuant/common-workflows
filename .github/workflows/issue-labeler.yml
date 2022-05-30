@@ -10,5 +10,5 @@ jobs:
     - uses: github/issue-labeler@v2.0
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        configuration-path: .github/issue-labeler.yml
+        configuration-path: "EdaoQuant/common-workflows/.github/issue-labeler.yml"
         enable-versioned-regex: 0
