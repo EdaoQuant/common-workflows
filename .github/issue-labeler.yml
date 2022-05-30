@@ -1,0 +1,20 @@
+type/tracking:
+  - '(Tracking|Roadmap)'
+type/RFC:
+  - 'Discussion'
+type/bug:
+  - 'bug'
+component/ci:
+  - 'ci'
+component/test:
+  - 'test'
+component/doc:
+  - 'doc'
+component/datafeed:
+  - 'datafeed'
+component/order:
+  - 'order'
+component/executor:
+  - 'executor'
+component/filter:
+  - 'filter'
